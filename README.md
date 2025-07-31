@@ -1,12 +1,11 @@
-# React + Vite
+# GBV Model
+This site is for a project created with react and a backend with python for a Gender Based Violence classification model that will classify tweets about Gender related violence claims into five categories
+ - Sexual violence
+ - Traditional Harmful Practices
+ - Physical Violence
+ - Emotional Violence
+ - Economic Violence
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# About
+This was created during ahackthon event in Daystar University in partnership with ALX Kenya and Zindi Africa.
+All the data was provided by Zindi platform 
