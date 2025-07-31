@@ -9,8 +9,8 @@ const App = ({title= "Gender Based Violence Classification Model",
             <img src={gbvLogo} alt="Logo" className="w-32 h-32 mb-5 mt-10" />
         
             <div className='text-center p-20'>
-                <h1 className='text-4xl font-extrabold text-white sm:text-white md:text-6xl'>{title}</h1>
-                <p className='my-4 text-3xl text-white'>{subTitle}</p>
+                <h1 className='text-4xl font-extrabold text-white sm:text-white md:text-6xl mb-12'>{title}</h1>
+                <p className='my-2 text-3xl text-white'>{subTitle}</p>
             </div>
             <input
                 id='tweetInput'
